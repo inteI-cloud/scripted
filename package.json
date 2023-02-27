@@ -35,7 +35,7 @@
 	"dependencies": {
         "amdefine": "0.0.2",
 		"enhanced-resolve": "0.4.5",
-        "formidable": "1.0.9",
+        "formidable": "1.2.6",
         "htmlparser": "1.7.6",
         "json5": "0.1.0",
         "node-static": "0.5.9",
