@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
         "amdefine": "0.0.2",
-		"enhanced-resolve": "0.4.5",
+		"enhanced-resolve": "0.9.1",
         "formidable": "1.0.9",
         "htmlparser": "1.7.6",
         "json5": "0.1.0",
